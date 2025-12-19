@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SentinelChat: Cyber Threat Analyzer",
+  "description": "An advanced NLP-powered tool that analyzes WhatsApp chat history to detect phishing, social engineering, and fraudulent messages using Gemini AI.",
+  "requestFramePermissions": []
+}
